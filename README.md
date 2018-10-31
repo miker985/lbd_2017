@@ -9,4 +9,4 @@ The repo contains the following directories
     This includes the supplementary data `growth_standards` which contain some epic zscores as well as the often requested HAZ and WAZ files.
 1. `02_crunch_data` contains the secret sauce you pour over `00_mbg_central` to make beautiful maps and find where the most child growth has failed.
 
-![This isn't actually Aaron Ozgood-Zimmerman, but it is an Aaron wearing a suit](NotAaron.jpg)
+![This isn't actually Aaron Ozgood-Zimmerman, but it is an Aaron wearing a suit](NotAaron.jpg "This isn't actually Aaron Ozgood-Zimmerman, but it is an Aaron wearing a suit")
